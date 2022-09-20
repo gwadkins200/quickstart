@@ -61,7 +61,7 @@ This application allows users to vote for dogs or cats and see the results. It c
 Notes
 -----
 
-This example application is meant to demonstrate Uffizzi capabilities and workflow. To configure Preview Environments for your own application, be sure to add a Docker Compose template and add a Uffizzi deloy job to your pipeline. This uses Github and Github Actions, but Uffizzi is designed to work with any version control system, container registry, or [CI provider](https://github.com/UffizziCloud/uffizzi_app/tree/develop/ci/).  
+This example application is meant to demonstrate Uffizzi capabilities and workflow. To configure Preview Environments for your own application, be sure to add a Docker Compose template and add a Uffizzi preview job to your pipeline. This uses Github and Github Actions, but Uffizzi is designed to work with any version control system, container registry, or [CI provider](https://github.com/UffizziCloud/uffizzi_app/tree/develop/ci/).  
 
 You can configure Uffizzi to preview your APIs/backend while static site hosting platforms like [Netlify](https://www.netlify.com) or [Vercel](https://vercel.com/) preview your frontend. For help configuring this scenario see:  
 
